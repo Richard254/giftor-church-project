@@ -1,0 +1,20 @@
+/* This Awesome CSS file was created by Font Orgranizer from Hive :) */
+
+h1 { font-family: 'CoreSansD67'!important;   }
+h2 { font-family: 'CoreSansD67'!important;   }
+.maranatha-home-section-content h2, maranatha-home-section-content h1 { font-family: 'CoreSansD67'!important; font-weight:700!important; font-style:italic;}
+
+@font-face {
+    font-family: 'sandals_typeregular';
+    src: url('sandalstype-webfont.woff2') format('woff2'),
+         url('sandalstype-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sandals_type_lightregular';
+    src: url('sandalstypelight-webfont.woff2') format('woff2'),
+         url('sandalstypelight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

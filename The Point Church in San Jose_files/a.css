@@ -1,0 +1,62 @@
+/* Enter Your Custom CSS Here */
+
+.maranatha-home-section-content h1{
+        font-size: 160px !important;}
+
+.maranatha-home-section-content h2{
+        font-size: 160px !important;color:#fff !important}
+
+.maranatha-h1{display: inherit !important;
+    font-size: 120px !important;}
+
+@media (max-width: 500px)
+{
+
+
+
+.maranatha-home-section-content h1,.maranatha-home-section-content h2{
+        font-size: 16vw !important;
+  
+}
+
+.maranatha-h1{
+  font-size: 7vh !important;display: inherit !important;}
+
+.maranatha-has-logo-image #maranatha-banner-title .maranatha-h1{
+  font-size: 3em !important;}
+
+}
+@media (max-width: 624px)
+{
+.maranatha-h1{
+  font-size: 141px !important;display: inherit !important;}
+
+}
+
+@media (max-width: 574px)
+{
+.maranatha-h1{
+  font-size: 9vh !important;display: inherit !important;}
+
+}
+.maranatha-home-section-content p{color:#fff !important}
+
+
+
+.maranatha-color-light-bg .maranatha-circle-buttons-list a:hover {
+    background-color: #fff !important;
+    color: #000  !important;
+}
+
+.maranatha-color-light-bg .maranatha-circle-buttons-list a {
+    border-color: #fff !important;
+    color: #fff !important;
+}
+
+
+#maranatha-logo-text{
+        font-size:2em !important;}
+
+.maranatha-color-light-bg{background-color:#2b2b2b}
+
+

@@ -1,0 +1,73 @@
+/* This Awesome CSS file was created by Font Orgranizer from Hive :) */
+
+@import url('//fonts.googleapis.com/css?family=Abel|ABeeZee');
+
+@font-face {
+    font-family: 'PointType-Regular';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/PointType-Regular.ttf') format('truetype');
+font-weight: normal;
+}
+
+@font-face {
+    font-family: 'CoreSansD67';
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/CoreSansD67CnHeavy-Italic.eot');
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/CoreSansD67CnHeavy-Italic.ttf') format('truetype'),
+url('//thepoint.church/wp-content/uploads/font-organizer/CoreSansD67CnHeavy-Italic.woff') format('woff'),
+url('//thepoint.church/wp-content/uploads/font-organizer/CoreSansD67CnHeavy-Italic.eot?#iefix') format('embedded-opentype'),
+url('//thepoint.church/wp-content/uploads/font-organizer/CoreSansD67CnHeavy-Italic.woff2') format('woff2'),
+url('//thepoint.church/wp-content/uploads/font-organizer/CoreSansD67CnHeavy-Italic.svg#CoreSansD67CnHeavy-Italic.svg') format('svg');
+font-weight: 700;
+font-style: italic;
+}
+
+@font-face {
+    font-family: 'Trade Gothic Bold';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/Trade-Gothic-LT-Bold.ttf') format('truetype');
+font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Trade Gothic Condens';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/Trade-Gothic-LT-Condensed-No.-18-1.ttf') format('truetype');
+font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/Trade-Gothic-LT-Condensed-No.-18.ttf') format('truetype');
+font-weight: 300;
+}
+
+@font-face {
+    font-family: 'sandallight2';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/sandalstypelight-webfont.woff2') format('woff2');
+font-weight: 300;
+}
+
+@font-face {
+    font-family: 'sandalnormal2';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/sandalstype-webfont.woff2') format('woff2');
+font-weight: normal;
+}
+
+@font-face {
+    font-family: 'sandallight';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/SANDALSTYPELIGHT.ttf') format('truetype'),
+url('//thepoint.church/wp-content/uploads/font-organizer/sandalstypelight-webfont.woff') format('woff');
+font-weight: 300;
+}
+
+@font-face {
+    font-family: 'sandalnormal';
+    
+    src: url('//thepoint.church/wp-content/uploads/font-organizer/SANDALSTYPE.ttf') format('truetype'),
+url('//thepoint.church/wp-content/uploads/font-organizer/sandalstype-webfont.woff') format('woff');
+font-weight: normal;
+}
